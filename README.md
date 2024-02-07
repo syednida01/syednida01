@@ -8,6 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 -----------------------------------------------------------------------------------------------------------------------------------------
+
 ### About me 🙂
 
 Keen student exploring the wonders of computer science, eager to dive into coding adventures.
