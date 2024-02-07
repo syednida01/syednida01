@@ -1,5 +1,4 @@
 ### Syed Nida Ali 👋
-<img src="https://github.com/syednida01/syednida01/assets/91251793/5208a9fb-4113-4d92-b4fe-ed6ef8596f4f"/>
 <div>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://komarev.com/ghpvc/?username=syednida01&style=flat-square&color=blue" alt=""/>
@@ -8,7 +7,9 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+-----------------------------------------------------------------------------------------------------------------------------------------
 ### About me 🙂
+
 Keen student exploring the wonders of computer science, eager to dive into coding adventures.
 
 - 🔭 currently working on Javascript , DSA , core Java
@@ -17,7 +18,7 @@ Keen student exploring the wonders of computer science, eager to dive into codin
 
 - :zap: I solve problems on leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/syed-nida-ali-6225a820b/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/syed-nida-ali-6225a820b/))
 ------------------------------------------------------------------------------------------------------------------------------------------
 ### :hammer_and_wrench: Languages and Tools :
 <div>
