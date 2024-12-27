@@ -15,9 +15,9 @@
 
 Keen student exploring the wonders of computer science, eager to dive into coding adventures.
 
-- 🔭 currently working on Javascript , DSA , core Java
+- 🔭 currently working on MongoDB , API's , DSA 
   
-- 🌱 currently learning Git , MySql , Node.js
+- 🌱 currently learning Node.js , API's
 
 - :zap: I solve problems on leetcode and read tech articles.
 
